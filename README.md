@@ -5,6 +5,7 @@
 
 
 
+
 ## Descrição
 
 `DesafioP1` é um aplicativo Android simples que permite ao usuário adicionar itens a uma lista, incluindo nome, valor e uma URL de imagem. Os itens são exibidos em uma `RecyclerView` com um layout de cartão, onde as imagens são carregadas dinamicamente usando a biblioteca Glide. O projeto foi desenvolvido em Kotlin e segue práticas modernas de design com Material Components.
@@ -19,7 +20,7 @@
 
 | Tela Principal | Lista de Itens |
 |----------------|----------------|
-| ![tela1](https://github.com/user-attachments/assets/2474bafc-f6ec-43b1-ae4a-453477e83e1a) | ![tela2](https://github.com/user-attachments/assets/94fb15c1-4bea-4256-92e4-30a0ffc690df) |
+| ![tela3](https://github.com/user-attachments/assets/0b03be6a-7680-4075-afd0-95616ed84a5d) | ![tela2](https://github.com/user-attachments/assets/94fb15c1-4bea-4256-92e4-30a0ffc690df) |
 
 *(Substitua os caminhos das imagens acima por capturas reais do seu app após adicioná-las ao repositório.)*
 
