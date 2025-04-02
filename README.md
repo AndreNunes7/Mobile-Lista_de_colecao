@@ -1,7 +1,9 @@
-# DesafioP1 - Lista de Itens com Imagens
+![tela1](https://github.com/user-attachments/assets/64992e1f-02d3-468a-a7db-f5343b2afb2d)# DesafioP1 - Lista de Itens com Imagens
 
 ![GitHub](https://img.shields.io/github/license/seu-usuario/desafiop1)  
 ![Android](https://img.shields.io/badge/Plataforma-Android-green)
+
+
 
 ## Descrição
 
@@ -17,7 +19,7 @@
 
 | Tela Principal | Lista de Itens |
 |----------------|----------------|
-| ![Tela Principal](screenshots/main_screen.png) | ![Lista de Itens](screenshots/list_screen.png) |
+| ![tela1](https://github.com/user-attachments/assets/2474bafc-f6ec-43b1-ae4a-453477e83e1a) | ![tela2](https://github.com/user-attachments/assets/94fb15c1-4bea-4256-92e4-30a0ffc690df) |
 
 *(Substitua os caminhos das imagens acima por capturas reais do seu app após adicioná-las ao repositório.)*
 
