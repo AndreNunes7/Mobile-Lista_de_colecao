@@ -1,5 +1,3 @@
-![tela1](https://github.com/user-attachments/assets/64992e1f-02d3-468a-a7db-f5343b2afb2d)# DesafioP1 - Lista de Itens com Imagens
-
 ![GitHub](https://img.shields.io/github/license/seu-usuario/desafiop1)  
 ![Android](https://img.shields.io/badge/Plataforma-Android-green)
 
