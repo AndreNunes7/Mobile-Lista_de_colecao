@@ -20,7 +20,7 @@
 |----------------|----------------|
 | ![tela3](https://github.com/user-attachments/assets/0b03be6a-7680-4075-afd0-95616ed84a5d) | ![tela2](https://github.com/user-attachments/assets/94fb15c1-4bea-4256-92e4-30a0ffc690df) |
 
-*(Substitua os caminhos das imagens acima por capturas reais do seu app após adicioná-las ao repositório.)*
+
 
 ## Pré-requisitos
 
